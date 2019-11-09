@@ -12,9 +12,11 @@
 - target function - f
 - hypothesis - set(g1, g2, g3)
 
-从`data`开始，经过`hypothesis`，得到`g`，送入`input`，得到`output`；
+从`data`（数据源）开始，经过`hypothesis`（假设的模型可能，通常有无数个），得到`g`（结果模型），送入`input`（待预测数据），得到`output`（预测结果）；
 
 ## 关系
 - 数据挖掘
 - AI
 - 统计
+
+是一门涉及多学科的交叉学科：统计学、概率论、最优化、计算机、信息学、生物学等；
