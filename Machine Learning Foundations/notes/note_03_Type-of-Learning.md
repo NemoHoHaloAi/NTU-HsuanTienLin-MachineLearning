@@ -19,3 +19,10 @@
 ![batch](./image/ml-process-online.png)
 - activte学习：主动学习的特点在于当算法有疑惑时，会主动询问它当前的x对应的y来确保自己的正确与否；
 ![batch](./image/ml-process-activate.png)
+
+## 以input来划分
+- concrete feature：具有实际、具体、业务意义的特征，即高维度特征，比如年龄、性别、收入等；
+- raw feature：仅具有物理意义的，比如像素点信息；
+- abstract feature：仅具有一点或不具备物理意义的抽象特征，例如ID；
+
+通常来说，越高维度的特征对ML来说越简单，而DL目前在做的就是在低维度特征上解决问题，即自动抽取高维度特征；
