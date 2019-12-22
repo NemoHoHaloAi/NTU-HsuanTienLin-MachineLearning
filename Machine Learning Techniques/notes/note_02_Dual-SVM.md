@@ -1,4 +1,4 @@
 # 对偶SVM
 
 知识点：
-1. 
+1. Gooooooooooooooooooood.
